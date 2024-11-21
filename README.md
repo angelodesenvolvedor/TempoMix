@@ -25,5 +25,5 @@ Este projeto foi construído utilizando as seguintes ferramentas e tecnologias:
 - **👤 Ângelo Silvano** – 💻 Front-End Developer.
 
 ## 📄 **Licença**  
-Este projeto está sob a licença **MIT** 📝 – consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+- Este projeto está sob a licença **MIT** 📝 – consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
