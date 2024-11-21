@@ -22,8 +22,8 @@ Este projeto foi construído utilizando as seguintes ferramentas e tecnologias:
 
 
 ## 👷 **Autor**  
-- **👤 Ângelo Silvano** – 💻 Front-End Developer.
+- **👤 Ângelo Silvano** – 💻 *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 **Licença**  
-- Este projeto está sob a licença **MIT** 📝 – consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+- Este projeto está sob a licença **MIT** 📝 – consulte o arquivo [LICENSE.md](https://github.com/angelodesenvolvedor/TempoMix?tab=MIT-1-ov-file) para mais detalhes.
 
